@@ -6,10 +6,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by Splitix on 11/1/16.
- */
-
 public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewHolder> {
 
     String [] name = { "Doctor Strange", "Inferno", "Trolls", "The Girl on the Train",
