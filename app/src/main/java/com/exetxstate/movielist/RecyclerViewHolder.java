@@ -5,10 +5,6 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-/**
- * Created by Splitix on 11/1/16.
- */
-
 public class RecyclerViewHolder extends RecyclerView.ViewHolder {
 
     TextView movieTitle;
